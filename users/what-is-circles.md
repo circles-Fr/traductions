@@ -14,7 +14,7 @@ Dans le protocole actuel, il y a un taux d'inflation intégré au système Circl
 
 Le système de Circles est donc une infrastructure matérielle et symbolique de distribution de valeur. Le système de Circles reconnaît les relations entre les personnes comme le fondement nécessaire à l'émergence de formes sociales qui reflètent plus fidèlement les besoins de la communauté. Pour l'instant, cette universalité est limitée par l'accès à un navigateur connecté à Internet, et dépend d'une infrastructure qui n'est pas sensible aux relations entre les membres d'une communauté donnée. Nous ne soutenons pas le colonialisme numérique. Nous nous attendons à ce que le système devienne plus inclusif à mesure que davantage de personnes s'impliquent et commencent à organiser leurs propres économies locales. Pour l'instant, nous utilisons les moyens dont nous disposons pour co-créer des alternatives - en reconnaissant ses contradictions - et en les contestant dans la pratique.
 
-## Monnaies et Confiance : Crédit Mutuel
+## Monnaies et Confiance : Mutuel Crédit
 
 Aujourd'hui, nous utilisons un seul argent pour gérer la santé, l'éducation, le commerce local et international, l'agriculture et de nombreux autres aspects de la vie. Ce mode d'échange « taille unique » est comme une forêt de pins. Dans une telle forêt, les aiguilles de pin en décomposition acidifient le sol et empêchent certains types de plantes de pousser. La simplicité impliquée a ses avantages et elle peut être efficace, mais le problème avec les monocultures est que lorsque quelque chose ne va pas, comme un incendie, un parasite envahissant ou une récession, cela devient une menace pour tous les participants collectivement.
 
